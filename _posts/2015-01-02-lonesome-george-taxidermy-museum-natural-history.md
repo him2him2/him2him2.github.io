@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "How the American Museum of Natural History preserved the world's loneliest tortoise"
+date:   2015-01-01 12:36:38
+categories: 
+---
+
+<!--
+Lonesome George was the last of his subspecies and that was just half his troubles. The Pinta island tortoise spent a portion of his life being nudged to mate with a similar species, but all three clutches of eggs never developed into offspring. Upon his death, the poor guy was shipped from the Galápagos Islands to the American Museum of Natural History for taxidermy. And now he's part of a dispute between the Galápagos and the Ecuadorian governments, who want his well maintained corpse to be displayed in different places. According to some scientists, Old George lived for over 100 years, and he can now exist 100 more as a symbol of the world's need for improved conservation efforts. Because no critter deserves a century of loneliness, not even the lowliest tortoise.
+
+This documentary short is about Lonesome George, but also the intense process behind preserving a specimen. It's good to know the immensely talented team at the AMNH could make Lonesome George look good after life. He'll be admired by thousands in the American museum alone. He won't be so lonesome anymore.
+
+Unrelated: This scientist is older Haley Joel Osment, right?
+-->
