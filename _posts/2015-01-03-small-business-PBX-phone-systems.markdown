@@ -9,7 +9,7 @@ This is content for relating:
 
 
 
-{% contentfor orcontent %}
+<!--
 Small business PBX phone systems today are increasingly more sophisticated. Here's a quick comparison of a conventional small business PBX system and a Unified Communications system that combines an Internet Protocol (IP) PBX and other features.
 
 A Conventional Small Business PBX
@@ -33,4 +33,4 @@ Unified Communications Manager Express is affordable, reliable, full-featured, a
 Learn more about Cisco Unified Communications Manager Express.
 
 Find a Cisco partner who can help you determine the best communications solution for your business.
-{% endcontentfor %}
+-->
