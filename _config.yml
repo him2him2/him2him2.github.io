@@ -1,5 +1,5 @@
 # Site settings
-title: The Awesome Site2
+title: The Awesome Site
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is an awesome site. Know that this is going to change the world. Just you wait.
@@ -10,3 +10,14 @@ github_username:  him2him2
 
 # Build settings
 markdown: kramdown
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
