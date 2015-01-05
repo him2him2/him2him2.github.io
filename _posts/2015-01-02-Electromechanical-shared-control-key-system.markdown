@@ -10,7 +10,7 @@ This is content for relating:
 
 
 
-<!--
+{% contentfor sidebar %}
 Electromechanical Shared-Control Key System
 Before the advent of large-scale integrated circuits, key systems were typically composed of electromechanical components (relays) as were larger telephone switching systems.
 
@@ -20,4 +20,4 @@ Two lesser-known key systems were used at airports for air traffic control commu
 
 Automatic Electric Company also produced a family of key telephone equipment, some of it compatible with Western Electric equipment, but it did not gain the widespread use enjoyed by Western Electric equipment.
 
--->
+{% endcontentfor %}
