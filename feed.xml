@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Awesome Site</title>
+    <title>The Awesome Site2</title>
     <description>This is an awesome site. Know that this is going to change the world. Just you wait.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Jan 2015 15:48:01 -0800</pubDate>
-    <lastBuildDate>Sun, 04 Jan 2015 15:48:01 -0800</lastBuildDate>
+    <link>https://him2him2.github.io//</link>
+    <atom:link href="https://him2him2.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Jan 2015 17:29:19 -0800</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2015 17:29:19 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 04 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/04/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/04/welcome-to-jekyll.html</guid>
+        <link>https://him2him2.github.io//jekyll/update/2015/01/04/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//jekyll/update/2015/01/04/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -42,35 +42,10 @@
         <title>Small Business PBX Phone Systems</title>
         <description>&lt;p&gt;This is content for relating:&lt;/p&gt;
 
-&lt;!--
-Small business PBX phone systems today are increasingly more sophisticated. Here&#39;s a quick comparison of a conventional small business PBX system and a Unified Communications system that combines an Internet Protocol (IP) PBX and other features.
-
-A Conventional Small Business PBX
-
-Traditionally, a small business PBX (Private Branch Exchange) is a telephone switching system that manages incoming and outgoing calls for a company&#39;s internal users. A PBX is connected to the public phone system and automatically routes incoming calls to specific extensions. It also shares and manages multiple lines. A typical small business PBX system includes external and internal phone lines; a computer server that manages call switching and routing; and a console for manual control.
-
-IP-Based Small Business PBX
-
-An IP PBX can do everything a traditional small business PBX can do and more. It performs the switching and connecting of Voice over IP as well as landline calls.
-
-A conventional PBX requires two networks, one for data and another for voice. An IP PBX system runs on an IP data network, which saves costs and minimizes network management.
-
-You can use IP phones, softphones (which don&#39;t require any phone hardware beyond a computer and a microphone headset), and landline phones on an IP PBX phone system.
-
-Unified Communications: IP PBX and More
-
-Small businesses require specialized features to support their particular workflows. Unified Communications Manager Express from Cisco Systems is designed specifically for small businesses. It combines an IP PBX with robust telephony features that traditional phone systems can&#39;t deliver.
-
-Unified Communications Manager Express is affordable, reliable, full-featured, and easy to deploy, administer, and maintain. It helps small businesses dramatically reduce communications and network management costs, enhance collaboration, improve productivity, and more.
-
-Learn more about Cisco Unified Communications Manager Express.
-
-Find a Cisco partner who can help you determine the best communications solution for your business.
---&gt;
 </description>
         <pubDate>Sat, 03 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/03/small-business-PBX-phone-systems.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/03/small-business-PBX-phone-systems.html</guid>
+        <link>https://him2him2.github.io//jekyll/update/2015/01/03/small-business-PBX-phone-systems.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//jekyll/update/2015/01/03/small-business-PBX-phone-systems.html</guid>
         
         
         <category>jekyll</category>
@@ -83,28 +58,10 @@ Find a Cisco partner who can help you determine the best communications solution
         <title>Electronic Shared-Control System</title>
         <description>&lt;p&gt;This is content for relating:&lt;/p&gt;
 
-&lt;!--
-Electronic Shared-Control System
-With the advent of LSI ICs, the same architecture could be implemented much less expensively than was possible using relays. In addition, it was possible to eliminate the many-wire cabling and replace it with much simpler cable similar to (or even identical to) that used by non-key systems. Electronic shared-control systems led quickly to the modern hybrid telephone system, as the features of PBX and key system quickly merged. One of the most recognized such systems is the AT&amp;T Merlin.
-
-Additionally, these more modern systems allowed a diverse set of features including:
-
-Answering machine functions
-Automatic call accounting
-Caller ID
-Remote supervision of the entire system
-Selection of signaling sounds
-Speed dialing
-Station-specific limitations (such as no long distance access or no paging)
-Features could be added or modified simply using software, allowing easy customization of these systems. The stations were easier to maintain than the previous electromechanical key systems, as they used efficient LEDs instead of incandescent light bulbs for line status indication.
-
-LSI also allowed smaller systems to distribute the control (and features) into individual telephone sets that don&#39;t require any single shared control unit. Generally, these systems are used with a relatively few telephone sets and it is often more difficult to keep the feature set (such as speed-dialing numbers) in synchrony between the various sets.
-
---&gt;
 </description>
         <pubDate>Sat, 03 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/2015/01/03/electronic-shared-control-system.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/01/03/electronic-shared-control-system.html</guid>
+        <link>https://him2him2.github.io//2015/01/03/electronic-shared-control-system.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//2015/01/03/electronic-shared-control-system.html</guid>
         
         
       </item>
@@ -113,17 +70,10 @@ LSI also allowed smaller systems to distribute the control (and features) into i
         <title>Business Telephone System</title>
         <description>&lt;p&gt;This is content for relating:&lt;/p&gt;
 
-&lt;!--
-Business Telephone System
-A business telephone system is a multiline telephone system typically used in business environments, encompassing systems ranging from small key telephone systems to large-scale private branch exchanges.
-
-A business telephone system differs from an installation of several telephones with multiple central office (CO) lines in that the CO lines used are directly controllable in key telephone systems from multiple telephone stations, and that such a system often provides additional features related to call handling. Business telephone systems are often broadly classified into key telephone systems, and private branch exchanges, but many hybrid systems exist.
-
---&gt;
 </description>
         <pubDate>Sat, 03 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/03/business-telephone-system.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/03/business-telephone-system.html</guid>
+        <link>https://him2him2.github.io//jekyll/update/2015/01/03/business-telephone-system.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//jekyll/update/2015/01/03/business-telephone-system.html</guid>
         
         
         <category>jekyll</category>
@@ -141,8 +91,8 @@ A business telephone system differs from an installation of several telephones w
 &lt;p&gt;Unrelated: This scientist is older Haley Joel Osment, right?&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/2015/01/01/lonesome-george-taxidermy-museum-natural-history.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/01/01/lonesome-george-taxidermy-museum-natural-history.html</guid>
+        <link>https://him2him2.github.io//2015/01/01/lonesome-george-taxidermy-museum-natural-history.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//2015/01/01/lonesome-george-taxidermy-museum-natural-history.html</guid>
         
         
       </item>
@@ -151,21 +101,10 @@ A business telephone system differs from an installation of several telephones w
         <title>Electromechanical Shared-Control Key System</title>
         <description>&lt;p&gt;This is content for relating:&lt;/p&gt;
 
-&lt;!--
-Electromechanical Shared-Control Key System
-Before the advent of large-scale integrated circuits, key systems were typically composed of electromechanical components (relays) as were larger telephone switching systems.
-
-The systems marketed in North America as the 1A, 6A, 1A1 and the 1A2 Key System are typical examples and sold for many decades. The 1A family of Western Electric Company (WECo) key telephone units (KTUs) were introduced in the late 1930s and remained in use to the 1950s. 1A equipment was primitive and required at least two KTUs per line; one for line termination and one for station (telephone instrument) termination. The telephone instrument commonly used by 1A systems was the WECo 300-series telephone. Introduced in 1953, 1A1 key systems simplified wiring with a single KTU for both line and station termination, and increased the features available. As the 1A1 systems became commonplace, requirements for intercom features grew. The original intercom KTUs, WECo Model 207, were wired for a single talk link, that is, a single conversation on the intercom at a time. The WECo 6A dial intercom system provided two talk links and was often installed as the dial intercom in a 1A1 or 1A2 key system. The 6A systems were complex, troublesome and expensive, and never became popular. The advent of 1A2 technology in the 1964 simplified key system set up and maintenance. These continued to be used throughout the 1980s, when the arrival of electronic key systems with their easier installation and greater features signaled the end of electromechanical key systems.
-
-Two lesser-known key systems were used at airports for air traffic control communications, the 102 and 302 key systems. These were uniquely designed for communications between the air traffic control tower and radar approach control (RAPCON) or ground control approach (GCA), and included radio line connections.
-
-Automatic Electric Company also produced a family of key telephone equipment, some of it compatible with Western Electric equipment, but it did not gain the widespread use enjoyed by Western Electric equipment.
-
---&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 04:36:38 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/01/Electromechanical-shared-control-key-system.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/01/Electromechanical-shared-control-key-system.html</guid>
+        <link>https://him2him2.github.io//jekyll/update/2015/01/01/Electromechanical-shared-control-key-system.html</link>
+        <guid isPermaLink="true">https://him2him2.github.io//jekyll/update/2015/01/01/Electromechanical-shared-control-key-system.html</guid>
         
         
         <category>jekyll</category>
