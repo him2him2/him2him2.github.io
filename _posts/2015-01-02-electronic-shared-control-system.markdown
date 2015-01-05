@@ -10,7 +10,7 @@ This is content for relating:
 
 
 
-<!--
+{% contentfor related %}
 Electronic Shared-Control System
 With the advent of LSI ICs, the same architecture could be implemented much less expensively than was possible using relays. In addition, it was possible to eliminate the many-wire cabling and replace it with much simpler cable similar to (or even identical to) that used by non-key systems. Electronic shared-control systems led quickly to the modern hybrid telephone system, as the features of PBX and key system quickly merged. One of the most recognized such systems is the AT&T Merlin.
 
@@ -27,4 +27,4 @@ Features could be added or modified simply using software, allowing easy customi
 
 LSI also allowed smaller systems to distribute the control (and features) into individual telephone sets that don't require any single shared control unit. Generally, these systems are used with a relatively few telephone sets and it is often more difficult to keep the feature set (such as speed-dialing numbers) in synchrony between the various sets.
 
--->
+{% endcontentfor %}

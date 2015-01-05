@@ -10,7 +10,7 @@ This is content for relating:
 
 
 
-{% contentfor sidebar %}
+{% contentfor related %}
 Electromechanical Shared-Control Key System
 Before the advent of large-scale integrated circuits, key systems were typically composed of electromechanical components (relays) as were larger telephone switching systems.
 
