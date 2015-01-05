@@ -1,0 +1,5 @@
+module Jekyll
+  module ContentBlocks
+    VERSION = "0.0.3"
+  end
+end
